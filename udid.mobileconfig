@@ -16,7 +16,7 @@
             </array>
         </dict>
         <key>PayloadOrganization</key>
-        <string>www.exchen.net</string>  <!--组织名称-->
+        <string>www.xiaoyao.com</string>  <!--组织名称-->
         <key>PayloadDisplayName</key>
         <string>获取设备 UDID</string>  <!--安装时显示的标题-->
         <key>PayloadVersion</key>
